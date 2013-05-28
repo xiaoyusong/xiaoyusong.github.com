@@ -728,7 +728,7 @@ header p {
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   background-color: #FFE788;
   margin-left: 5px;
-  padding: 10px 12px;
+  padding: 10px 50px;
   margin-top: 6px;
   line-height: 14px;
   font-size: 14px;
@@ -747,12 +747,6 @@ header p {
   background-color: #ffeca0;
 }
 #banner .fork {
-  position: fixed;
-  left: 50%;
-  margin-left: -325px;
-  padding: 10px 12px;
-  margin-top: 6px;
-  line-height: 14px;
   font-size: 14px;
   background-color: #FFE788;
 }
